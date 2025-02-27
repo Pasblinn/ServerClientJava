@@ -1,0 +1,1 @@
+A classe ClientGUI corresponde a interface gráfica do cliente e a ServerGUI corresponse a interface do servidor
